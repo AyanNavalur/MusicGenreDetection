@@ -1,0 +1,8 @@
+Dataset/
+*.zip
+*.dat
+*.csv
+*.wav
+*.png
+saved_models/
+.*/
